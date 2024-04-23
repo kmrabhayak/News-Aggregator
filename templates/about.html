@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - News Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+    }
+
+    header {
+      background-color: #0066cc;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    .about-section {
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      margin-bottom: 20px;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    .about-content {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    footer {
+      background-color: #0066cc;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+      left: 0;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
+    .nav-link {
+      color: #fff;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    .nav-link:hover {
+      color: #99ccff;
+    }
+
+    .dark-mode .nav-link {
+      color: #0066cc;
+    }
+
+    .dark-mode .nav-link:hover {
+      color: #3399ff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>About Us</h1>
+    <h2>
+        
+      
+          <a class="nav-link" href="{% url 'home' %}">News Aggregator</a>
+
+</h2>
+  </header>
+  <main>
+    <section class="about-section">
+      <div class="about-content">
+        <h2>Welcome to Our News Aggregator</h2>
+        <p>Welcome to the hub of information where stories come alive and headlines paint the canvas of your curiosity. Dive into a world where news isn't just reported, it's crafted with precision, woven with insights, and delivered with the passion of storytellers.</p>
+        <p>Explore the realms of current affairs, entertainment, sports, politics, and beyond. Whether you seek the latest buzz or delve into the depths of opinion pieces, our news aggregator is your compass in the ever-evolving landscape of information.</p>
+        <p>Join our vibrant community of news enthusiasts where every click uncovers a new narrative, every scroll unveils a fresh perspective. Let the symphony of headlines guide you through the cacophony of today's world, illuminating the path to knowledge and understanding.</p>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2024 News Aggregator. All rights reserved.</p>
+  </footer>
+</body>
+</html>
