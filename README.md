@@ -1,5 +1,4 @@
-## Website Live Link
-https://news-aggregator-ku26.onrender.com/
+
 
 </p>
 <h1 align = 'center'>News Aggregator</h1>
@@ -48,8 +47,7 @@ Our news aggregator works in 3 steps:<br>
 ![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/facebook_share.PNG)
 ## Whatsapp share
 ![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/whatsapp_share.PNG)
-## Telegram share
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/telegram_share.PNG)
+
 ## Copy to clipboard
 ![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/copy_to_clipboard.PNG)
 ---------------------------------------------------------------------------------------
