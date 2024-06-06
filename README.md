@@ -26,31 +26,17 @@ Our news aggregator works in 3 steps:<br>
         ----------------------------------------------------------------------------------------
 ### Screenshots ###
 ## Latest
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/latest_light_mode.PNG)
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/latest_night_mode.PNG)
-## Entertainment
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/entertainment_light_mode.PNG)
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/entertainment_night_mode.PNG)
-## Sports
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/sports_light_mode.PNG)
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/sports_night_mode.PNG)
-## Politics
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/polititcs_light_mode.PNG)
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/polititcs_night_mode.PNG)
-## Breaking News
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/breaking_light_mode.PNG)
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/breaking_night_mode.PNG)
-## Opinion News
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/opinion_light_mode.PNG)
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/opinion_night_mode.PNG)
-## Facebook share
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/facebook_share.PNG)
-## Whatsapp share
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/whatsapp_share.PNG)
 
-## Copy to clipboard
-![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/copy_to_clipboard.PNG)
----------------------------------------------------------------------------------------
+![](https://github.com/kmrabhayak/News-Aggregator/blob/main/Picture1.png)
+## Entertainment
+![](https://github.com/kmrabhayak/News-Aggregator/blob/main/Picture2.png)
+
+## Contact Us
+![](https://github.com/kmrabhayak/News-Aggregator/blob/main/Picture3.png)
+
+## Dark Theme
+![](https://github.com/kmrabhayak/News-Aggregator/blob/main/Picture4.png)
+
 
 ## How To Use
 
