@@ -43,7 +43,6 @@ Make sure you have Python 3 installed. Then run:
 pip install bs4
 pip install requests
 pip install django-social-share
-
 ```
 ---
 
@@ -55,6 +54,7 @@ pip install django-social-share
 
 ```bash
 python manage.py runserver
+```
 
 3. Open your browser and go to
  http://127.0.0.1:8000/
