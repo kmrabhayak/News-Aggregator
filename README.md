@@ -9,6 +9,41 @@
 [![](https://img.shields.io/badge/Made_with-Python3-blue?style=for-the-badge&logo=python)](https://www.python.org "Python3")[![](https://img.shields.io/badge/Made_with-Django-blue?style=for-the-badge&logo=django)](https://www.djangoproject.com/ "Django")
 
 </p>
+# 🗞️ News Aggregator
+
+A Django-powered news aggregator that scrapes and displays articles from [The Onion](https://www.theonion.com). This project combines web scraping with dynamic web presentation to deliver categorized satire news articles in a clean and accessible format.
+
+---
+
+## 🔍 Features
+
+- Scrapes the latest articles using `BeautifulSoup` and `requests`
+- Stores article titles, images, and links in a SQLite database
+- Displays categorized news (Latest, Entertainment, Sports, Politics, Opinion, Breaking News)
+- Responsive frontend with Bootstrap styling
+- Interactive UI with a "Load News" button to fetch data seamlessly
+
+---
+
+## 🖼️ Screenshots
+
+| Latest | Entertainment | Contact Us | Dark Theme |
+|--------|---------------|------------|------------|
+| ![Latest](Picture1.png) | ![Entertainment](Picture2.png) | ![Contact](Picture3.png) | ![Dark Theme](Picture4.png) |
+
+---
+
+## 🚀 How to Use
+
+### 📦 Installation
+
+Make sure you have Python 3 installed. Then run:
+
+```bash
+pip install bs4
+pip install requests
+pip install django-social-share
+
 
 ## Description
 
