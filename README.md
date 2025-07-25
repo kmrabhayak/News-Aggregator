@@ -44,6 +44,7 @@ pip install bs4
 pip install requests
 pip install django-social-share
 
+```
 ---
 
 ### **🛠️ Running the Project**
