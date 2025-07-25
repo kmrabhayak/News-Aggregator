@@ -45,11 +45,36 @@ pip install requests
 pip install django-social-share
 
 
-####🛠️ Running the Project
+### 🛠️ **Running the Project**
+
 1. Navigate to the project root (where manage.py is located).
 
 2. Run the server:
+
 ```bash
 python manage.py runserver
 
+3. Open your browser and go to
+ http://127.0.0.1:8000/
 
+
+
+### 🧰 **Tech Stack**
+Layer	Technology
+Backend	Python, BeautifulSoup
+Framework	Django
+Database	SQLite3
+Frontend	HTML, CSS, Bootstrap
+
+### 📁 **Project Structure**
+
+newsaggregator/ – Django app for crawling and rendering news
+
+templates/ – HTML templates for views
+
+db.sqlite3 – Database file
+
+requirements.txt – Dependency list
+
+### **👤 Author**
+Created by Abhay Kumar. Feel free to fork, contribute or drop a ⭐ if you find it useful!
